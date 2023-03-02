@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syaire-sgpsa.github.io/sitemap.xml
